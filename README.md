@@ -1,12 +1,14 @@
 # UltiMc-for-idiots (WINDOWS GUIDE)
-## Links:
+## Links (WINDOWS ONLY):
 - https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-win_x64.msi
 - https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip
 
 ## Steps:
 - Download both the files
 - Run zulu17.42.19-ca-jdk17.0.7-win_x64 (it may end with .msi, doesn't matter)
-- Then press next/continue till it's done
+- Then press next
+- Select JAVA_HOME with the 2nd option (It's the one with the big ❌)
+- Continue
 - After, you're gonna want to right click mmc-cracked-win32 (it may end with .zip, doesn't matter)
 - "Extract to mmc-cracked-win32\"
 - Open mmc-cracked-win32 (The folder)
@@ -25,6 +27,7 @@
 - Set email and password to the name you want (I.E: EmaiL:Mana Password:Mana)
 - Close (Button on the bottom right)
 - "Add instance" (Top left)
+## For 1.19.4 (Fabric):
 - Below the Grass block, press "Modrinth"
 - Select "Fabulously Optimized" (Should be the first one)
 - Press Ok (Bottom right)
@@ -32,6 +35,13 @@
 - Click on "Fabulously Optimized 4.9.4" Twice and wait
 - Click on "Fabulously Optimized 4.9.4" Twice again
 - Congrats! You can now play minecraft without an account.
+
+## For Any Other Version:
+- Vanilla (First option)
+- Scroll down and find your version
+- Press OK
+- Profit
+
 
 ## Fixes:
 ### If it says "Minecraft 1.18 Pre Release 2 and above require the use of Java 17"
