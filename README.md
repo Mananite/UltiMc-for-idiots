@@ -32,3 +32,10 @@
 - Click on "Fabulously Optimized 4.9.4" Twice and wait
 - Click on "Fabulously Optimized 4.9.4" Twice again
 - Congrats! You can now play minecraft without an account.
+
+## Fixes:
+### If it says "Minecraft 1.18 Pre Release 2 and above require the use of Java 17"
+- Settings (On the left)
+- Java installation
+- Auto Detect
+- Version 17.0.7
