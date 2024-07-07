@@ -1,11 +1,11 @@
 # UltiMc-for-idiots (WINDOWS GUIDE)
 ## Links (WINDOWS ONLY):
-- https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-win_x64.msi
+- [https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-win_x64.msi](https://www.azul.com/core-post-download/?endpoint=zulu&uuid=8000a21f-2dc1-4212-947f-ed59b58e2323)
 - https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip
 
 ## Steps:
 - Download both the files
-- Run zulu17.42.19-ca-jdk17.0.7-win_x64 (it may end with .msi, doesn't matter)
+- Run zulu22.30.13-ca-jdk22.0.1-win_x64.msi (it may end with .msi, doesn't matter)
 - Then press next
 - Select JAVA_HOME with the 2nd option (It's the one with the big ❌)
 - Continue
@@ -16,7 +16,7 @@
 - Find UltimMC (it may end with .exe, doesn't matter)
 - It will show a bunch of languages, pick yours (I recommend english since most other languages aren't 100% done)
 - Press Next 
-- Now in versions (top left of the white rectangle), select 17.0.7
+- Now in versions (top left of the white rectangle), select 22.x.x
 - Then go down close to the bottom.
 - Where it says "Maximum Memory Allocation", paste "4098" (Just the number)
 - Finish
@@ -27,13 +27,13 @@
 - Set email and password to the name you want (I.E: EmaiL:Mana Password:Mana)
 - Close (Button on the bottom right)
 - "Add instance" (Top left)
-## For 1.19.4 (Fabric):
+## For Newest Version (Fabric):
 - Below the Grass block, press "Modrinth"
 - Select "Fabulously Optimized" (Should be the first one)
 - Press Ok (Bottom right)
 - Wait for it to download
-- Click on "Fabulously Optimized 4.9.4" Twice and wait
-- Click on "Fabulously Optimized 4.9.4" Twice again
+- Click on "Fabulously Optimized" Twice and wait
+- Click on "Fabulously Optimized" Twice again
 - Congrats! You can now play minecraft without an account.
 
 ## For Any Other Version:
@@ -44,8 +44,8 @@
 
 
 ## Fixes:
-### If it says "Minecraft 1.18 Pre Release 2 and above require the use of Java 17"
+### If it says anything like "Minecraft Version and above require the use of Java 21"
 - Settings (On the left)
 - Java installation
 - Auto Detect
-- Version 17.0.7
+- Version 22.x.x
