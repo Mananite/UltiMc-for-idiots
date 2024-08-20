@@ -8,6 +8,7 @@
 - Run zulu22.30.13-ca-jdk22.0.1-win_x64.msi (it may end with .msi, doesn't matter)
 - Then press next
 - Select JAVA_HOME with the 2nd option (It's the one with the big ❌)
+- Install to current user
 - Continue
 - After, you're gonna want to right click mmc-cracked-win32 (it may end with .zip, doesn't matter)
 - "Extract to mmc-cracked-win32\"
