@@ -1,6 +1,6 @@
 # UltiMc-for-idiots (WINDOWS GUIDE)
 ## Links (WINDOWS ONLY):
-- [https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-win_x64.msi](https://www.azul.com/core-post-download/?endpoint=zulu&uuid=8000a21f-2dc1-4212-947f-ed59b58e2323)
+- https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-win_x64.msi
 - https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip
 
 ## Steps:
